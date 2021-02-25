@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: geerlingguy
-  role_name: ansible-role-docker
+  role_name: ansible_role_docker
   description: Docker for Linux.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
