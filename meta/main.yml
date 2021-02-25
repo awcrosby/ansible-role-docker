@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: geerlingguy
-  role_name: da_docker_role
+  role_name: da-docker-role
   description: Docker for Linux.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
